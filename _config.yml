@@ -13,7 +13,7 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: TSWoW Wiki
+title: TSWoW 0.12 ARCHIVE
 email:
 description: >- # this means to ignore newlines until "baseurl:"
   TSWoW is a modding framework for World of Warcraft: Wrath of the Lich King.
