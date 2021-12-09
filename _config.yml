@@ -48,7 +48,7 @@ plugins:
   - jekyll-include-cache
 
 author:
-  name   : "TSWoW Wiki"
+  name   : "TSWoW 0.12 Archive"
   avatar : "/assets/images/bio-photo.png"
   bio    : "WoW Modding Unleashed"
   links:
